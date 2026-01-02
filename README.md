@@ -1,4 +1,4 @@
-# thesis detection
+# LiDAR-Based Indoor Reconstruction & Human Detection
 ## Overview
 The repository below is an integral part of my academic thesis [[1]](#1) at Aristotle University of Thessaloniki's Department of Electrical and Computer Engineering. The main objective of the thesis was to investigate digital indoor reconstruction and human detection algorithms using LiDAR technology. In this repository, we have created a human detector and a plane detector that operate in LiDAR point clouds. We also utilized the human detector to identify three distinct human body positions. In addition, a simple human fall detector was developed. The detectors and apps were created with the help of the intermediary software Robotic Operation System (ROS2). They can operate in real time, either in a Gazebo Simulation environment [[3]](#3) or with actual LiDAR sensors.
 
